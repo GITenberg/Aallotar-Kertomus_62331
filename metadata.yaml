@@ -1,5 +1,5 @@
 _repo: Aallotar-Kertomus_62331
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Undine. Finnish
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '43032'
     url: http://www.gutenberg.org/2009/agents/43032
     wikipedia: https://fi.wikipedia.org/wiki/Väinö_Hämeen-Anttila
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1045
     wikipedia: https://en.wikipedia.org/wiki/Friedrich_de_la_Motte_Fouqué
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62331#Aallotar-Kertomus
 gutenberg_issued: '2020-06-06'
 gutenberg_type: Text
 identifiers:
